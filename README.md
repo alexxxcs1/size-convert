@@ -1,7 +1,7 @@
 # Easy way to size convert
 
 <!-- # INSTALL
-
+NOT PUBLISH
 ```
 npm i @cxug/size-convert
 ```
